@@ -1,0 +1,2 @@
+# mybooru
+Custom Booru page
